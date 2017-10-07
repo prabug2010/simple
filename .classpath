@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-firefox-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-java-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-server-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/mvnjars/selenium-support-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/client-combined-3.4.0-nodeps.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/guava-21.0.jar" sourcepath="G:/Selenium jars/lib/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/htmlunit-2.26.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/htmlunit-driver-2.26.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="G:/Selenium jars/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="G:/Jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/Jars/rest-assured-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/Jars/rest-assured-3.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
